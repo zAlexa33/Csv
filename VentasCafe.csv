@@ -1,0 +1,16 @@
+cod_producto;nombre;stock;precio_venta;categoria;cantidad;importe
+prod01;Empanada de pollo;60;2.5;piqueos;7;17.5
+prod02;Empanada de carne;50;3;piqueos;4;12
+prod03;Sandwich de pollo;70;3.5;piqueos;5;17.5
+prod04;Sandwich mixto;50;4;piqueos;8;32
+prod05;Ron Cartavio Black 250 ml;70;50;bebidas;5;250
+prod06;Whisky Red Label 750   ml;100;70;bebidas;2;140
+prod07;Whisky Johnnie Walker Black 750ml;150;150;bebidas;6;900
+prod08;Red Bull 250 ml;200;8;bebidas;3;24
+prod09;Agua mineral personal;100;3;bebidas;1;3
+prod10;Cerveza Cusqueña  Dorada 330ml;50;4;bebidas;5;20
+prod11;Torta de chocolate;40;4.5;piqueos;2;9
+prod12;Pizza personal;20;4;piqueos;8;80
+prod13;Cerveza corona 335ml;200;6;piqueos;6;1200
+prod14;Vino Tabernero 750ml;120;30;piqueos;7;840
+prod15;Vodka Absolut  750ml;100;70;piqueos;8;560
